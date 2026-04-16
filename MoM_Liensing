@@ -1,0 +1,7 @@
+Here is a brief summary of our discussion regarding the Regulatory Toolkit and the licensing approach:
+
+We confirmed that the standard model will be to couple the Regulatory Toolkit with another existing product license. This coupling does not replace the requirement for customers to purchase the Regulatory Toolkit itself once the full GxP package is available, and a free license should only be provided in exceptional cases such as controlled trials or early adopter evaluations.
+
+Following Dennis request, I also reviewed how other vendors in our industry monetize their GxP related functionality. The most common model is a perpetual license combined with paid updates, often referred to as “license locked updates.” In this approach, the software continues functioning, but access to compliance critical updates is granted only with an active maintenance or update subscription. I am attaching a short overview in case it is useful for our next steps.
+
+We also reviewed the activation process and the current register key mechanism in timsControl. We still need to decide whether this key will be set manually or embedded in the setup. The toolkit will continue enabling the required flags in CompassServer, and retaining the register key remains important for customers who prefer not to log into CompassServer.
